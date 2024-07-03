@@ -1,8 +1,8 @@
 # AspireNex
 Task 1:Credit Card Fraud detection
-step1: Dataset exploration and preprocessing
-load the dataset, explore missing values if any.
-perform feature scaling.
+Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit
+card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests
+to classify transactions as fraudulent or legitimate.
 
 Task 2:Spam SMS Detection
 Build an AI model that can classify SMS messages as spam or legitimate.
